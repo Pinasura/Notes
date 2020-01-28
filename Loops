@@ -1,0 +1,5 @@
+When writting a for loop, we need the following three parts: 
+  a variable initialization where we declare the variable we will use in the condition; 
+  a condition expression which is boolean (can only return true or false); and
+  steps defining the incremental or decremental part.
+Example: for (var i = 0; i < 10; i++) {}

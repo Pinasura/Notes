@@ -3,3 +3,6 @@ When writting a for loop, we need the following three parts:
   a condition expression which is boolean (can only return true or false); and
   steps defining the incremental or decremental part.
 Example: for (var i = 0; i < 10; i++) {}
+
+When writting a while loop, we only need a condition expression.
+Example: while (i < 10) {}

@@ -1,2 +1,2 @@
 # Notes
-A few notes to remember concepts
+A few notes to help me remember concepts
